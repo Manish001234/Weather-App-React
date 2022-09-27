@@ -1,0 +1,25 @@
+.container{
+    width: 50%;
+   border: 1px solid;
+   height: 750px;
+   margin: auto;
+   background-color: #9dd2d9;
+    
+}
+
+.container_inside{
+    width: 50%;
+    height: 720px;
+    border: 1px solid;
+    margin: auto;
+    margin-top: 2%;
+    background-color: white;
+    border-radius: 35px;
+}
+
+.input{
+    padding: 15px 30px; 
+    margin: 10px 30px;
+    width: 68%;
+    border-radius: 15px;
+}
