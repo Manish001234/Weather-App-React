@@ -1,8 +1,9 @@
 import axios from 'axios'
 import React, { useEffect, useRef, useState } from 'react'
-import "./styles/landing.css"
+import "../styles/landing.css"
 import Chart from "react-apexcharts";
 import Map from './Map';
+import {FaSearch} from "react-icons/fa"
 
 
 const Landing = () => {
@@ -125,9 +126,16 @@ const Landing = () => {
   return (
     <div className="container">
     <div className='container_inside'>
-    <input type="text" className="input" onChange={
-              citiesFetch
-            } />
+     
+    
+     
+       <input type="text" className="input" onChange={citiesFetch} placeholder="Search city" /> 
+       <div className='search1'>
+       <span><FaSearch /></span>
+       </div>
+       
+       
+      
             <div className='outputBox' style={{display: display ? "none" : 'block' }}>
             {cities.map((ele,i) => {
               return(

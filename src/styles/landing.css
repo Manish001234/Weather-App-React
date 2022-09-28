@@ -8,11 +8,13 @@
 }
 
 .container_inside{
-    width: 27%;
+    width: 26%;
     height: 720px;
     border: 1px solid;
     margin: auto;
     margin-top: 1%;
+    overflow: scroll;   
+
     background-color: white;
     border-radius: 35px;
 }
@@ -23,7 +25,13 @@
     width: 68%;
     border-radius: 15px;
 }
-
+.search1{
+    margin-left: 83%;
+    margin-top: -45px;
+    margin-bottom: 30px;
+   
+    
+}
 .outputBox{
     /* border: 1px solid black; */
     height: 400px;
@@ -37,9 +45,12 @@
     
 }
 
-/* .outputBox::-webkit-scrollbar {
+ .outputBox::-webkit-scrollbar {
     display: none;
-} */
+} 
+.container_inside::-webkit-scrollbar {
+    display: none;
+} 
 
 
 .cityBoxSingle{
@@ -50,7 +61,7 @@
 }
 .cityBoxSingle:hover{
     cursor: pointer;
-    background-color: aquamarine;
+    background-color: rgb(220, 214, 214);
 }
 .city{
     font-size: 20px;
@@ -78,7 +89,7 @@
 }
 .singleweather:hover{
     cursor: pointer;
-    background-color: aquamarine;
+    background-color: rgb(220, 214, 214);
 }
 .cloudImg{
     width: 70%;
@@ -104,7 +115,7 @@
 
 .map_div{
     margin: auto;
-    margin-left: 39px;
+    margin-left: 45px;
 
  
    
