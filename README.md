@@ -28,7 +28,7 @@
 
 <table>
    <tr>
-    <td><h4>Landing page</h4><img src="blob:https://medium.com/7314a543-96b5-4c66-8f4f-7e3dd583d86b" /></td>
+    <td><h4>Landing page</h4><img src="https://cdn-images-1.medium.com/max/1000/1*SI3dyyX49wVsjWRaMosPFg.png" /></td>
    
   </tr>
   
