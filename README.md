@@ -20,7 +20,7 @@
 <h3 align="center" > Want to see live preview >><h3>
 <p align="center">
 <br />
-<a target="blank" href="https://bro-chill.vercel.app/">Deployed Link</a>
+<a target="blank" href="https://weather-app-reactxcxs.netlify.app/">Deployed Link</a>
 </p>
 
 ## Glimpses of website :
@@ -28,15 +28,12 @@
 
 <table>
    <tr>
-    <td><h4>Landing page</h4><img src="https://cdn-images-1.medium.com/max/1000/1*49AoKMm4xFz9N6lvziC7uQ.png" /></td>
+    <td><h4>Landing page</h4><img src="blob:https://medium.com/7314a543-96b5-4c66-8f4f-7e3dd583d86b" /></td>
    
   </tr>
   
 </table>
- <tr>
-    <td><h4>Single Page</h4><img src="https://cdn-images-1.medium.com/max/1000/1*Shn75_rHpVV_grJSA0OF7A.png" /></td>
-   
-  </tr>
+
 
 <br />
 
